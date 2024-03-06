@@ -6,12 +6,6 @@
  */
 
 
-/*
- * main.c
- *
- *  Created on: Aug 14, 2023
- *      Author: Shorouk Shawky
- */
 
 
 #include <stdio.h>
